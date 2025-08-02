@@ -22,7 +22,7 @@
 ## ✏️ 자격증
 |Date|Description|
 |--|--|
-|2024.05|AWS Certified Solutions Architect - Associate|
+|2024.05|[AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/f42396bd-4ea9-4495-b213-af45d4a05e8e/public_url)|
 
 <br>
 
